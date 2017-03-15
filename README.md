@@ -1,4 +1,4 @@
 # hello-world
 This is my first repository.
 
-I'm Ryan, a UX designer who likes to dabble in a bit of everything.
+I'm Ryan, a UX designer and now I have some experience GitHubbing.  Thx
